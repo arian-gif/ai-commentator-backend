@@ -29,7 +29,7 @@ debug_mode = os.getenv("DEBUG", "False") == "True"
 genai.configure(api_key=API_KEY)
 client = genai.GenerativeModel("gemini-2.0-flash")
 
-model = whisper.load_model("base")  # or "small", "medium"
+model = whisper.load_model("tiny")  # or "small", "medium"
 
 mobilenet = mobilenet_v2(pretrained=True)
 mobilenet.eval()
