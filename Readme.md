@@ -16,3 +16,11 @@ This backend API accepts a sports highlight video (with or without audio), extra
 - Google Generative AI API (Gemini)
 - OpenCV
 
+  ## Front-end Repository
+
+React_TypeScript Frontend:  
+🔗 [https://github.com/arian-gif/ai-commentator-backend](https://github.com/arian-gif/ai-commentator-frontend)
+
+## 🛠 Deployment
+Deployment is currently in progress due to resource limitation
+
